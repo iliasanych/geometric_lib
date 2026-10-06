@@ -84,10 +84,16 @@ print(result)  # 20
 
 ## История изменений проекта
 
+## История изменений проекта
+
+## История изменений проекта
+
 | Хеш коммита | Описание изменений |
 | --- | --- |
-| 6e762ee | Added docstring to square.py functions |
-| 7bbff45 | Added docstring to circle.py functions |
-| d078c8d | L-03: Docs added |
 | 8ba9aeb | L-03: Circle and square added |
-
+| d078c8d | L-03: Docs added |
+| 7bbff45 | Added docstring to circle.py functions |
+| 6e762ee | Added docstring to square.py functions |
+| 2ae0854 | Update of docs/README.md |
+| 60bf56e | Добавлен README.md в корне репозитория |
+| нет хэша | Update of history table |
