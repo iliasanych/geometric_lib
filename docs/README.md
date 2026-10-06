@@ -81,12 +81,8 @@ print(result)  # 20
 ```
 
 
-
 ## История изменений проекта
 
-## История изменений проекта
-
-## История изменений проекта
 
 | Хеш коммита | Описание изменений |
 | --- | --- |
@@ -96,4 +92,5 @@ print(result)  # 20
 | 6e762ee | Added docstring to square.py functions |
 | 2ae0854 | Update of docs/README.md |
 | 60bf56e | Добавлен README.md в корне репозитория |
-| нет хэша | Update of history table |
+| b3a2d64 | Update of history table |
+| нет хэша| Fix of Readme.md |
